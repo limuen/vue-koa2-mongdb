@@ -20,19 +20,14 @@ ES6：采用ES6语法。
 登录
 注册
 UI框架统一为vant
-安装运行（安装运行前请确定已安装node环境）
+#安装运行（安装运行前请确定已安装node环境）
+
 环境安装：npm install
 启动服务：npm run dev
 压缩代码：npm run build
 node版本: ">=6.0"
-#本地运行注意事项
-```
-- clone下来 先在C盘新建data文件夹 data文件夹内新建db文件夹
-- 执行appApi下内的方法获取数据
-- 再启动mongoDB，进入项目内service文件夹下
-- 再输入node index.js 命令启动连接数据库
-- npm run dev 启动服务即可
-```
+
+
 #项目构成
 ```
 ├── build                           // 构建服务和webpack配置
