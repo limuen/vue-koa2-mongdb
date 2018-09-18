@@ -1,4 +1,4 @@
-#移动商城
+#移动商城<br>
 一个以vue开发的移动电子商城
 
 #技术栈
@@ -31,7 +31,9 @@ node版本: ">=6.0"
 - 再启动mongoDB，进入项目内service文件夹下
 - 再输入node index.js 命令启动连接数据库
 - npm run dev 启动服务即可
+
 #项目构成
+```
 ├── build                           // 构建服务和webpack配置
 ├── config                          // 项目不同环境的配置
 ├── dist                            // 项目build目录
@@ -49,3 +51,4 @@ node版本: ">=6.0"
 │   ├── main.js                     // Webpack 预编译入口
 │   ├── serviceAPI.config           // 网络请求
 └──
+```
