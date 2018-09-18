@@ -1,5 +1,5 @@
-vue
-A Vue.js project
+# vue
+###A Vue.js project
 
 Build Setup
 # install dependencies
