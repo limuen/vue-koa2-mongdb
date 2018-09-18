@@ -1,7 +1,7 @@
-#移动商城<br>
+# 移动商城<br>
 一个以vue开发的移动电子商城
 
-#技术栈
+# 技术栈
 Vue2：采用最新Vue2的语法
 vue-router：管理单页面应用路由
 node:后端服务
@@ -20,15 +20,15 @@ ES6：采用ES6语法。
 登录
 注册
 UI框架统一为vant
-#安装运行（安装运行前请确定已安装node环境）
+# 安装运行（安装运行前请确定已安装node环境）
 
-环境安装：npm install
-启动服务：npm run dev
-压缩代码：npm run build
+环境安装：npm install<br>
+启动服务：npm run dev<br>
+压缩代码：npm run build<br>
 node版本: ">=6.0"
 
 
-#项目构成
+# 项目构成
 ```
 ├── build                           // 构建服务和webpack配置
 ├── config                          // 项目不同环境的配置
