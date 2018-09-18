@@ -1,5 +1,5 @@
 # vue
-###A Vue.js project
+A Vue.js+koa2+mongdb project
 
 Build Setup
 # install dependencies
