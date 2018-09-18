@@ -11,7 +11,7 @@ mongoose:数据建模库（连接mongoDB）<br>
 axios：发起http请求<br>
 Webpack：自动化构建工具，主要配置vue-cli脚手架提供。<br>
 ES6：采用ES6语法。<br>
-功能介绍<br>
+### 功能介绍
 功能<br>
 首页<br>
 分类<br>
