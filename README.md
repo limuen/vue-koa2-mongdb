@@ -1,26 +1,26 @@
 # 移动商城<br>
 一个以vue开发的移动电子商城
 
-# 技术栈
-Vue2：采用最新Vue2的语法
-vue-router：管理单页面应用路由
-node:后端服务
-koa2:后端框架
-mongoDB:数据库
-mongoose:数据建模库（连接mongoDB）
-axios：发起http请求
-Webpack：自动化构建工具，主要配置vue-cli脚手架提供。
-ES6：采用ES6语法。
-功能介绍
-功能
-首页
-分类
-购物车
-会员中心
-登录
-注册
-UI框架统一为vant
-# 安装运行（安装运行前请确定已安装node环境）
+### 技术栈
+Vue2：采用最新Vue2的语法<br>
+vue-router：管理单页面应用路由<br>
+node:后端服务<br>
+koa2:后端框架<br>
+mongoDB:数据库<br>
+mongoose:数据建模库（连接mongoDB）<br>
+axios：发起http请求<br>
+Webpack：自动化构建工具，主要配置vue-cli脚手架提供。<br>
+ES6：采用ES6语法。<br>
+功能介绍<br>
+功能<br>
+首页<br>
+分类<br>
+购物车<br>
+会员中心<br>
+登录<br>
+注册<br>
+UI框架统一为vant<br>
+### 安装运行（安装运行前请确定已安装node环境）
 
 环境安装：npm install<br>
 启动服务：npm run dev<br>
@@ -28,7 +28,7 @@ UI框架统一为vant
 node版本: ">=6.0"
 
 
-# 项目构成
+### 项目构成
 ```
 ├── build                           // 构建服务和webpack配置
 ├── config                          // 项目不同环境的配置
